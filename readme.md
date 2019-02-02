@@ -1,4 +1,4 @@
-Repositori ini merupakan tugas UAS Mata Kuliah ECL pada Semester 7. Saya diberi tugas untuk membuat website sederhana memiliki fungsi CRUD dan menggunakan template AdminLTE. Tutorial yang saya ikuti merupakan tutorial dari dosen Mata Kuliah ECL Semester 7.
+Repositori ini merupakan tugas UAS Mata Kuliah ECL pada Semester 7. Saya diberi tugas untuk membuat website sederhana memiliki fungsi CRUD dan menggunakan template AdminLTE. Tutorial yang saya ikuti merupakan tutorial dari dosen Mata Kuliah ECL Semester 7, Ferry Stephanus S.
 
 Menurut saya tutorial yang diberikan dapat saya pahami dengan bukti saya bisa menyelesaikan tugas UAS ini. Saya juga mendapati kalau dalam tutorial tersebut ada beberapa bagian yang disalahkan atau dihilangkan seperti :
 1. Pada tutorial PDF pertama membuat Create ada kesalahan penulisan koding (Bocor) yang kemudian saya perbaiki ketika membuat website dari tutorial tersebut.
